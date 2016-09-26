@@ -1,0 +1,4 @@
+Testing out git on my droplet.
+Right now we're just running Apache with a simple index.html
+I'd like to test out Node.js also. Not sure if I can have both
+on the same server?
